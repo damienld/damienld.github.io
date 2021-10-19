@@ -4,6 +4,9 @@
 
 ### Data Science
 
+[Rakuteam](https://github.com/damienld/MLE-Project/blob/main/Presentation.pdf) 
+[Online Demo] https://share.streamlit.io/damienld/rakuteam/main/Streamlit_rakuten/demo_rakuten.py 
+---
 [MLE-Project](https://github.com/damienld/MLE-Project/blob/main/Presentation.pdf)
 
 ---
