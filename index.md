@@ -4,12 +4,12 @@
 
 ### Data Science
 
-- [Rakuteam](https://github.com/damienld/MLE-Project/blob/main/Presentation.pdf) <br>
+- [Rakuteam](https://github.com/damienld/Rakuteam) <br>
 Multimodal Product Classification by applying a Voting Classifier on machine learning, CNN and DNN models.<br>
 ![](https://github.com/damienld/Rakuteam/blob/main/Pictures/presentation/voting.jpeg)<br>
 The Streamlit [online Demo](https://share.streamlit.io/damienld/rakuteam/main/Streamlit_rakuten/demo_rakuten.py ) allows you to make your own predictions by selectings the models and the products[
 ---
-- [MLE-Project](https://github.com/damienld/MLE-Project/blob/main/Presentation.pdf)<br>
+- [MLE-Project](https://github.com/damienld/MLE-Project)<br>
 Deployment of sentiment analysis models to Azure through a Docker API with authentication.<br>
 The presentation of the project can be found [here](https://github.com/damienld/MLE-Project/blob/main/Documentation%20MLE%20projet_EN.pdf)
 The online API is free to try [here](https://disneyreviews.azurewebsites.net/docs#/) (credentials=alice/wonderland , the first start can be quite slow due to the server) 
@@ -25,6 +25,7 @@ This project is deployed on Dockerhub via a [Docker Image](https://hub.docker.co
 - [Data MotoGP](https://github.com/damienld/MotoGP)<br>
 Dynamic [website](https://datamotogp.eu) which extracts data from PDF and dynamically display various dynamic data visualizations (Google Charts) to analyse races.
 ![](https://github.com/damienld/damienld.github.io/blob/master/images/datamotogp.png)
+<img src="images/datamotogp.png?raw=true"/>
 ---
 
 
