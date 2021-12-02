@@ -25,9 +25,9 @@ This project is deployed on Dockerhub via a [Docker Image](https://hub.docker.co
 - [Pro-Tennis-Data](https://github.com/damienld/Pro-Tennis-Analysis)<br>
 Various **notebooks** to predict/explore tennis data.<br>
 The data is extracted from a MS Access Database and turned into yearly csv files.<br>
-Current features:
-1) predict aces rate for a player in a match: using the player average ace rate, his opponent average conceded ace rate and the surface speed.
-2) test various rating meta methods to assess tennis players level/form: currenlty WHR method (to be comapred to ELO/Glicko).
+Current features:<br>
+1) predict aces rate for a player in a match: using the player average ace rate, his opponent average conceded ace rate and the surface speed.<br>
+2) test various rating meta methods to assess tennis players level/form: currenlty WHR method (to be compared to ELO/Glicko).
 <br><br>
 
 ## C#/HTML/Javascript/DataViz
