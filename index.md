@@ -22,12 +22,18 @@ It tests each model with different sentences and compare the expected score and 
 This project is deployed on Dockerhub via a [Docker Image](https://hub.docker.com/repository/docker/dami1ld/mleprojecttest)
 <img src="images/mleprojecttest.png?raw=true"/><br><br>
 ---
-- [Pro-Tennis-Data](https://github.com/damienld/Pro-Tennis-Analysis)<br>
+- [Pro-Tennis-Analysis](https://github.com/damienld/Pro-Tennis-Analysis)<br>
 Various **notebooks** to predict/explore tennis data.<br>
 The data is extracted from a MS Access Database and turned into yearly csv files.<br>
 Current features:<br>
 1) predict aces rate for a player in a match: using the player average ace rate, his opponent average conceded ace rate and the surface speed.<br>
 2) test various rating meta methods to assess tennis players level/form: currenlty WHR method (to be compared to ELO/Glicko).
+<br><br>
+---
+- [Tennis-Data](https://github.com/damienld/Tennis-Data)<br>
+C# Assembly / SQL
+Based on [OnCourt](http://www.oncourt.info/) database<br>
+A model object is built from complex SQL Queries.
 <br><br>
 
 ## C#/HTML/Javascript/DataViz
