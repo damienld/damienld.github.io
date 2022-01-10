@@ -22,6 +22,12 @@ It tests each model with different sentences and compare the expected score and 
 This project is deployed on Dockerhub via a [Docker Image](https://hub.docker.com/repository/docker/dami1ld/mleprojecttest)
 <img src="images/mleprojecttest.png?raw=true"/><br><br>
 ---
+- [Tennis-Predict](https://github.com/damienld/Tennis-predict)<br>
+A python project currently in development to make predictions on tennis ATP matches.<br>
+Based on tennis results, it builds various ELO ratings and some other individual performance metrics.
+The model will allow to predict the result of the future matches.
+
+---
 - [Pro-Tennis-Analysis](https://github.com/damienld/Pro-Tennis-Analysis)<br>
 Various **notebooks** to predict/explore tennis data.<br>
 The data is extracted from a MS Access Database and turned into yearly csv files.<br>
